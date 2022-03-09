@@ -1,4 +1,5 @@
-# HYF-Module-HTMLCSSGIT...
+# HYF-Module-HTMLCSSGIT
+...
 
 [Digital-resume Link](https://mans-a20.github.io/HYF-Module-HTMLCSSGIT/week1/Digital-resume/index.html)
 
